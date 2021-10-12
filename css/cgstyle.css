@@ -155,6 +155,14 @@ html {
 
 }
 
+.card {
+  transition: all .2s ease-in-out;
+} 
+
+.card:hover {
+  transform: scale(1.05);
+} 
+
 .block-gap {
   margin-top: 2rem;
 }
