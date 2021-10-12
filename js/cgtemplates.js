@@ -63,7 +63,7 @@ class CGHeader extends HTMLElement {
 
                       <i class="bi bi-envelope-fill"></i>
 
-                      info@canberrageriatrics.co.au
+                      info@canberrageriatrics.com.au
 
                     </a>
 
