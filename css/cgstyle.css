@@ -16,10 +16,6 @@ html {
 }
 
 
-.header {
-  max-height: 12rem;
-}
-
 .header-2 {
   border-left-color: #008bd9;
   border-left-style: solid;
@@ -29,7 +25,6 @@ html {
 
 
 .header-21 {
-  height: 60px;
   background-image: linear-gradient(to right,#008bd9 0%,#005483 100%);
 }
 
